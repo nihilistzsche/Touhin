@@ -966,7 +966,7 @@ do
 end
 
 do
-	local L_QUEST = GetItemClassInfo(LE_ITEM_CLASS_QUEST)
+	local L_QUEST = GetItemClassInfo(Enum.ItemClass.Questitem)
 	local QUEST_COLOR = { hex = "|cffffff00", r = 1, g = 1, b = 0 }
 
 	function Touhin:AddLoot(unitName, item, quantity, isCrafted)

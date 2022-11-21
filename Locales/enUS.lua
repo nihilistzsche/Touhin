@@ -1,0 +1,79 @@
+local silent = true
+--[===[@debug@
+silent = nil
+--@end-debug@]===]
+
+local L = LibStub("AceLocale-3.0"):NewLocale("Touhin", "enUS", true, silent)
+
+L["Reset the anchor position to the center of your screen."] = true
+L["Reset Position"] = true
+L["Show Money"] = true
+L["Set the backdrop color and opacity."] = true
+L["Border"] = true
+L["Advanced"] = true
+L["New items are added below shown items instead of above."] = true
+L["Maximum number of items to show at once."] = true
+L["Set the duration of the fade animation."] = true
+L["Toggle showing currency (tokens, points, etc.) received by you in the display."] = true
+L["Set the border's alpha value."] = true
+L["Toggle showing the total number of items in your inventory."] = true
+L["Set distance from the edges of the frame to the edges of the background texture."] = true
+L["Show Currency"] = true
+L["Toggle showing the anchor."] = true
+L["Border Size"] = true
+L["Set the spacing between rows."] = true
+L["Item Text Length"] = true
+L["Set the font face."] = true
+L["Items are aligned to the left edge of the anchor instead of the right."] = true
+L["Fade Delay"] = true
+L["Self Quality Threshold"] = true
+L["Font Size"] = true
+L["Fade Duration"] = true
+L["Backdrop Color"] = true
+L["Item Display"] = true
+L["Background Inset"] = true
+L["Toggle showing looted money received by you in the display."] = true
+L["Set the border texture."] = true
+L["Font"] = true
+L["Border Alpha"] = true
+L["Show Item Total"] = true
+L["Show Quest Items"] = true
+L["Ignore loot thresholds and always show looted quest items."] = true
+L["Highlight Won"] = true
+L["Toggle highlighting items won while in a group."] = true
+L["Hide Loot Alert"] = true
+L["Roll Icon Scale"] = true
+L["Set the roll icon scale relative to the icon size."] = true
+L["Disable showing the loot won frame."] = true
+L["Set the overall scale of the display."] = true
+L["Background"] = true
+L["Row Spacing"] = true
+L["Set the spacing between the item icon and text."] = true
+L["Shown Limit"] = true
+L["Text Offset"] = true
+L["Set the minimum quality of items looted by group members to show."] = true
+L["Number of characters to show before truncating the item name."] = true
+L["Scale"] = true
+L["Group Quality Threshold"] = true
+L["Set the background texture."] = true
+L["Set the thickness of border segments and square size of the corners."] = true
+L["Align Left"] = true
+L["Toggle Anchor"] = true
+L["Set the minimum quality of items looted by you to show."] = true
+L["Set the number of seconds to wait before fading the item."] = true
+L["Grow Down"] = true
+L["Set the font size."] = true
+L["Some options are disabled because LibSharedMedia-3.0 is not available."] = true
+L["Nobody"] = true
+L["Strata"] = true
+L["Set the frame strata of items."] = true
+L["Show Icon"] = true
+L["Toggle showing the item icon."] = true
+L["Icon Size"] = true
+L["Set the icon size."] = true
+L["Color Background"] = true
+L["Toggle tinting the background and border with the item quality color, otherwise, use the backdrop color."] = true
+L.ANCHOR_TOOLTIP = "|cffeda55fDrag|r to position the anchor.\n" ..
+	"|cffeda55fShift-Click|r to spawn a test loot frame.\n" ..
+	"|cffeda55fRight-Click|r to hide the anchor.\n" ..
+	"|cffeda55fMiddle-Click|r to open options."

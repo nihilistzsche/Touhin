@@ -1,0 +1,78 @@
+tag f5dfcc423641d46f292e4de436459e7992a17477 1.4
+Author:	Kyle Buller <bullerk@gmail.com>
+Date:	Tue Oct 20 14:00:48 2020 -0500
+
+Tagging as 1.4
+
+commit 6cd2c8d9f137070fac4f88e78a385699c7b78a8b
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Tue Oct 20 13:59:57 2020 -0500
+
+    Update TOC for 9.0.1
+
+commit e32117ca3dfbbe246b0ce1215bfdf75ae19603a0
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Fri Oct 16 02:34:17 2020 -0500
+
+    Fix currency
+
+commit 48bbbfd67785461113f2f411c71213fb89a4d09c
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Fri Oct 16 02:33:42 2020 -0500
+
+    Fix backdrops
+
+commit e8de58fb2e424512795ca602acddb2902912cb02
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Fri Jun 5 23:38:56 2020 -0500
+
+    Use the currency quality color
+
+commit d24a28f5d7a719800cb091bd96b8c444cacc0490
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed May 6 22:28:09 2020 -0500
+
+    Allow a slight change of opacity for the background
+
+commit bab4a0d68111caac62b4e97037aff595b77b0407
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed May 6 22:24:32 2020 -0500
+
+    Fix the anchor background
+
+commit ca3d82242327690d1c52f848cf430f1cdf402b4a
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed May 6 20:37:50 2020 -0500
+
+    Fix luacheck warnings
+
+commit 098b820d07cc7c84afe32bacfc96a199c7acc6da
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed May 6 20:04:27 2020 -0500
+
+    Update TOC for 8.3
+
+commit 2964db76ade11e02e4f67f466f5f8da8d0ccfea4
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed Nov 21 23:03:55 2018 -0600
+
+    Ignore untranslated phrases
+
+commit 615b2b81f8966be29b68f6867fc603c15ec75d6b
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed Nov 21 22:33:06 2018 -0600
+
+    Replace AceGUI-3.0-SharedMediaWidgets with LibDDI-1.0
+
+commit acc6e6d2b6a553f4ca239a5d9bb09e0fb332d80c
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed Nov 21 22:32:26 2018 -0600
+
+    Live update the background options
+
+commit 9fa8eef34abd4412127649a8e704520da348b425
+Author: Kyle Buller <bullerk@gmail.com>
+Date:   Wed Nov 21 21:54:53 2018 -0600
+
+    Tweaks
+

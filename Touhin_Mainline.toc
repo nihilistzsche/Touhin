@@ -1,0 +1,12 @@
+## Interface: 100002
+## Title: Touhin
+## Notes: Visual loot monitor
+## Author: Neb
+## Version: 1.4
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibDDI-1.0
+## SavedVariables: TouhinDB
+
+embeds.xml
+locales.xml
+
+Touhin.lua

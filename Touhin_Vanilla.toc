@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 11403
 ## Title: Touhin
 ## Notes: Visual loot monitor
 ## Author: Neb
